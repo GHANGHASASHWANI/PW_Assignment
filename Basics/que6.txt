@@ -1,0 +1,14 @@
+Q6. How many of these can be a variable name ?
+1. 01Pwskills
+2. _FLOAT
+3. int
+4. FLOAT
+5. You will Succeed
+
+Answer
+1. No, variable name cannot start with 0.
+2. Yes, variable name can start with under score.
+3. No, as int is a keyword in c++.
+4. Yes, because of case sensitive language float and FLOAT 
+   are different in c++.
+5. No, spaces are not allowed in variable names.
