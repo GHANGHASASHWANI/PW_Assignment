@@ -12,6 +12,6 @@ x%=y;
 cout<<x;
 }
 
-Output:
+Output screen:
 2 3
 2
