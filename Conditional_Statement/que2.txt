@@ -13,7 +13,7 @@ cin>>y; // user will give 'y' a value.
 cout<<(x!=y)<<" "<<(x>=y);
 }
 
-Output:
+Output screen:
 Enter first number
 3
 Enter second number
