@@ -14,7 +14,7 @@ int Z = (x * y) % m;
 cout << "Output is: " << Z;
 }
 
-Output: 
+Output screen: 
 Enter first number
 2
 Enter second number and value for taking modulus
